@@ -272,7 +272,7 @@ Requirements
 -----
 - iOS 9.0+
 - Xcode 9+
-- Swift 4
+- Swift 5
 
 License
 -----
