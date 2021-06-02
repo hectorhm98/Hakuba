@@ -262,7 +262,7 @@ Installation
 * Installation with CocoaPods
 
 ```
-pod 'Hakuba'
+pod 'Hakuba', :git => 'https://github.com/hectorhm98/Hakuba', :branch => 'master'
 ```
 
 * Copying all the files into your project
